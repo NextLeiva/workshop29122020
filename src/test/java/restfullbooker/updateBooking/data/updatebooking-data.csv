@@ -1,0 +1,8 @@
+firstname,lastname,totalprice,depositpaid,checkin,checkout,additionalneeds
+Eduardo,Victorio,1550,true,2021-01-01,2021-01-01,Lunch
+Victorio,Brown,8950,false,2021-01-01,2021-01-01,Breakfast
+Rubi,Bautista,4550,true,2021-01-01,2021-01-01,Lunch
+Josue,Mendoza,4550,false,2021-01-01,2021-01-01,Dinner
+Danny,Arica,1500,true,2021-01-01,2021-01-01,Lunch
+Cesar,Mendoza,2000,false,2021-01-01,2021-01-01,Breakfast
+Guillermo,Castillo,3580,true,2021-01-01,2021-01-01,Dinner
